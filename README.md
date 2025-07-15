@@ -6,8 +6,8 @@ A simple and fun front-end project that changes the background color to a **rand
 
 ## 📸 Preview
 
-![Color Flipper Screenshot](<img width="1872" height="915" alt="image" src="https://github.com/user-attachments/assets/4ed64c7a-4845-42c8-bf38-d013b6b047ae" />
-)
+<img width="1872" height="915" alt="image" src="https://github.com/user-attachments/assets/9c5857b9-cc93-494b-a3f4-66b0f22b6585" />
+]
 
 ---
 
@@ -42,9 +42,7 @@ To build a beginner-friendly JavaScript project that strengthens fundamental con
 ## 📹 Demo Video
 
 🎬 Watch the video demo on LinkedIn:  
-🔗 [LinkedIn Video Demo]([https://www.linkedin.com/posts/nixon-j_web-html-css-javascript-activity-XXXXXXXXXXXX](https://www.linkedin.com/posts/nixon-j_html-css-javascript-activity-7350697632769486848-7GUZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCKRAMB4UKCdSu4p4Liz9eTtzr39LPYYeE))
-
-> *(Replace with your real LinkedIn post link)*
+🔗 ([(https://www.linkedin.com/posts/nixon-j_html-css-javascript-activity-7350697632769486848-7GUZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCKRAMB4UKCdSu4p4Liz9eTtzr39LPYYeE)])
 
 ---
 
